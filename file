@@ -3,3 +3,5 @@ Git commands:
 git init
 git status
 git fetch
+git pull
+git push
